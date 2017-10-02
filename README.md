@@ -16,28 +16,28 @@ EDIT:
 We are offering internship at Pervazive for a period of 6 months (Jun’17-Dec’17). If you are interested, please send across your resume.
 
 <h2>Machine learning startups in India</h2>
-<h1>1.Dapple	http://www.dapple.in/</h1>
-2	Hachi	http://www.gohachi.com/
-3	Ad Element	http://adelement.com/
-4	Data Weave	http://www.dataweave.in/
-5	Prompt Cloud	https://www.promptcloud.com/
-6	 Vimana	http://www.systeminsights.com/
-7	 Sokrati	https://sokrati.com/
-8	 Snappy Fingers	http://www.snappyfingers.com/
-9	Serendio	http://www.serendio.com/
-10	Veooz	https://www.veooz.com/
-11	Xurmo	http://www.xurmo.com/
-12	PubMatic	http://www.pubmatic.com/
-13	Directi	http://www.directi.com/
-14	LogiNext	http://www.loginextsolutions.com/
-15	Persistent	http://www.persistent.com/
-16	Ayasdi	http://www.ayasdi.com/
-17	Media.Net	http://www.media.net/
-18	Tookitaki	http://tookitaki.com/
-19	Stride	http://stride.ai/
-20	Nubtech	http://www.nubetech.co/
-21	3LOQ Labs	http://3loq.com/
-22	Targeting Mantra	http://targetingmantra.com/
-23	Aureus Analytics	http://www.aureusanalytics.com/
-24	Machine Pulse	http://www.machinepulse.com
-25	Flutura	http://www.flutura.com/
+<p>1.Dapple	http://www.dapple.in/</p>
+<p>2	Hachi	http://www.gohachi.com/</p>
+<p>3	Ad Element	http://adelement.com/</p>
+<p>4	Data Weave	http://www.dataweave.in/</p>
+<p>5	Prompt Cloud	https://www.promptcloud.com/</p>
+<p>6	 Vimana	http://www.systeminsights.com/</p>
+<p>7	 Sokrati	https://sokrati.com/</p>
+<p>8	 Snappy Fingers	http://www.snappyfingers.com/</p>
+<p>9	Serendio	http://www.serendio.com/</p>
+<p>10	Veooz	https://www.veooz.com/</p>
+<p>11	Xurmo	http://www.xurmo.com/</p>
+<p>12	PubMatic	http://www.pubmatic.com/</p>
+<p>13	Directi	http://www.directi.com/</p>
+<p>14	LogiNext	http://www.loginextsolutions.com/</p>
+<p>15	Persistent	http://www.persistent.com/</p>
+<p>16	Ayasdi	http://www.ayasdi.com/</p>
+<p>17	Media.Net	http://www.media.net/</p>
+<p>18	Tookitaki	http://tookitaki.com/</p>
+<p>19	Stride	http://stride.ai/</p>
+<p>20	Nubtech	http://www.nubetech.co/</p>
+<p>21	3LOQ Labs	http://3loq.com/</p>
+<p>22	Targeting Mantra	http://targetingmantra.com/</p>
+<p>23	Aureus Analytics	http://www.aureusanalytics.com/</p>
+<p>24	Machine Pulse	http://www.machinepulse.com</p>
+<p>25	Flutura	http://www.flutura.com/</p>

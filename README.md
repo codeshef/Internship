@@ -25,6 +25,8 @@ to read and watch trailers instantly.
 It is also credited by many for having a great UI. Do check out the screenshots below. 
 The most recent feed with movies populated based on what your friends have rated/reviewed on Dapple.
 
+Location : Banglore
+
 <p>2	Hachi	http://www.gohachi.com/</p>
 <p>3	Ad Element	http://adelement.com/</p>
 <p>4	Data Weave	http://www.dataweave.in/</p>

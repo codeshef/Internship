@@ -51,3 +51,4 @@ Location : Banglore
 <p>23	Aureus Analytics	http://www.aureusanalytics.com/</p>
 <p>24	Machine Pulse	http://www.machinepulse.com</p>
 <p>25	Flutura	http://www.flutura.com/</p>
+<p>26 Deep Learning Internship in Chandigarh at Constalytics<p>

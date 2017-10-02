@@ -15,17 +15,16 @@ EDIT:
 
 We are offering internship at Pervazive for a period of 6 months (Jun’17-Dec’17). If you are interested, please send across your resume.
 
-<h3>Machine learning startups in India</h3>
-No.	Name of Startup	Website
-1	Dapple	http://www.dapple.in/
+<h2>Machine learning startups in India</h2>
+<h1>1.Dapple	http://www.dapple.in/</h1>
 2	Hachi	http://www.gohachi.com/
 3	Ad Element	http://adelement.com/
 4	Data Weave	http://www.dataweave.in/
 5	Prompt Cloud	https://www.promptcloud.com/
 6	 Vimana	http://www.systeminsights.com/
- 7	 Sokrati	https://sokrati.com/
- 8	 Snappy Fingers	http://www.snappyfingers.com/
- 9	Serendio	http://www.serendio.com/
+7	 Sokrati	https://sokrati.com/
+8	 Snappy Fingers	http://www.snappyfingers.com/
+9	Serendio	http://www.serendio.com/
 10	Veooz	https://www.veooz.com/
 11	Xurmo	http://www.xurmo.com/
 12	PubMatic	http://www.pubmatic.com/
